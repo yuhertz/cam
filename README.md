@@ -1,6 +1,6 @@
 # cam
 
-SET UP FOR LINUX AND KALI LINUX
+SET UP FOR TERMUX AND KALI LINUX
 
 ```
 git clone https://github.com/yuhertz/cam
