@@ -13,8 +13,8 @@ If you have not install pip or python
 
 (for termux)
 ```
-install python3
-install git
+apt install python3
+apt install git
 ```
 
 (for kali linux)
