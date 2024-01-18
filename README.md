@@ -9,16 +9,18 @@ pip3 install -r requirements.txt
 python3 cam.py 
 ```
 
-If you have not install pip or python
+For installing package
 
 (for termux)
 ```
-apt install python3
-apt install git
+pkg install python3
+pkg install git
+pkg install python-pip
 ```
 
 (for kali linux)
 ```
 sudo apt install python3
 sudo apt install git
+sudo apt install pip3
 ```
